@@ -3,7 +3,7 @@
 This project focuses on the multi-label classification of enzyme substrates, developed during the **Kaggle Playground Series - Season 3, Episode 18**. The model leverages chemical features to predict enzyme categories EC1 and EC2.
 
 ### 🚀 Live Demo
-Explore the interactive model here: https://huggingface.co/spaces/bdaser/Enzyme_Substrate
+Explore the interactive model here: **[Enzyme Substrates Classification App](https://huggingface.co/spaces/bdaser/Enzyme_Substrate)**
 
 ### 🛠️ Technical Approach & Feature Engineering
 * **Chemical Interaction Ratios**: New features such as `Chi1_valence_ratio` and `Chi2_valence_ratio` were engineered to capture specific molecular interactions.
