@@ -1,6 +1,6 @@
 # 🧬 Enzyme Substrate Prediction (EC1 to EC6)
 
-This project focuses on the multi-label classification of enzyme substrates, developed during the **Kaggle Playground Series - Season 3, Episode 18**. The model leverages chemical features to predict enzyme categories EC1 through EC6.
+This project focuses on the multi-label classification of enzyme substrates, developed during the **Kaggle Playground Series - Season 3, Episode 18**. The model leverages chemical features to predict enzyme categories EC1 and EC2.
 
 ### 🚀 Live Demo
 Explore the interactive model here: https://huggingface.co/spaces/bdaser/Enzyme_Substrate
